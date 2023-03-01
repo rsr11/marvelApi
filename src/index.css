@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* .bgImg{ */
+    /* background-image: url(./src/assets/marvelbg1.jpg); */
+    /* background-size: cover; */
+    /* background-attachment:fixed; */
+    /* display: flex; */
+    
+    /* justify-content: center; */
+/* } */
